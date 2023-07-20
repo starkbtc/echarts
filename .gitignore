@@ -189,6 +189,7 @@ todo
 /echarts.blank.js
 /lib
 /types
+/dist
 /index.js
 /index.simple.js
 /index.common.js
